@@ -10,6 +10,7 @@ A collection of Python packages for LibTerm / uDevice.
 | [cowsay](cowsay.zip) | Python implementation of the classic `cowsay` command |
 | [download](download.zip) | Download files from a URL to the local filesystem |
 | [gitdl](gitdl.zip) | Download GitHub gists and repositories |
+| [ifconfig](ifconfig.zip) | Display network interface configuration (IP, MAC, netmask) |
 | [netscan](netscan.zip) | Scan a network range for open ports |
 | [pager](pager.zip) | Line-by-line file pager (similar to `more`) |
 | [pyeval](pyeval.zip) | Evaluate a Python expression from the command line |
