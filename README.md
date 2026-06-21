@@ -18,5 +18,6 @@ A collection of Python packages for LibTerm / uDevice.
 | [showip](showip.zip) | Display the device's local IP address |
 | [sleep](sleep.zip) | Pause execution for a specified number of seconds |
 | [systeminfo](systeminfo.zip) | Display Python version, compiler, architecture, and platform info |
+| [tee](tee.zip) | Read from stdin and write to stdout and one or more files simultaneously |
 | [unzip](unzip.zip) | Extract files from a zip archive |
 | [zip](zip.zip) | Compress files or folders into a zip archive |
